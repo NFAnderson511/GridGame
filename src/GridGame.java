@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class GridGame {
     public static void main(String[] args) throws Exception {
         Scanner keyboard = new Scanner(System.in);
         int xSize = 20;
